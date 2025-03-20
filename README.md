@@ -78,5 +78,5 @@ Traditional AI-powered code generation often provides code based on the AI's own
 CXR, pronounced "Sixer," provides a powerful and intuitive way to work with code. it is powered by CPGI, CXR empowers you to achieve your goals whether you're learning a new language, exploring complex algorithms, or need to analyze existing code. Happy coding!
 
 ____________________________________________
-### made with ❤️ by a passioante programmer
-### Raunak Kumar Jha
+#### Made With ❤️ By A Passionate Programmer
+#### Raunak Kumar Jha
