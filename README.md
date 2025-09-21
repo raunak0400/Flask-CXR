@@ -1,6 +1,5 @@
 # CXR (Sixer): Comment-Driven Code Editor
 
-
 ## Introduction
 
 Welcome to CXR (Comment eXecution and Review), pronounced "Sixer," a unique web-based code editor powered by CPGI (Comment Programmer Generative AI). , revolutionizing the way you approach coding by allowing you to express your logic in simple comments and then translating them into functional code. It also doubles as a code analyzer, identifying and correcting errors in existing code.
